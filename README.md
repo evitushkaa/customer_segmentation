@@ -1,6 +1,6 @@
 <h1> RFM customer segmetation </h1>
 <h2> I have Retail Customer Transactional Data. </h2>
-<h2> **The goal** is customer segmetation based on this data. </h2>
+**The goal** is customer segmetation based on this data.
 <h4> In classical marketing, there is a methodology for **RFM analysis**, which is used to predict customer behavior based on his past actions. RFM is an abbreviation of the words Recency (novelty), Frequency (frequency), Monetary (attachments).
 * ***Recency*** - this is the time that has passed since the last activity of the client, whether it’s a purchase, a link or just opening an email.
 * ***Frequency*** - the number of actions performed by the client.
