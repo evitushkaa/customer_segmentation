@@ -13,6 +13,6 @@
 For segmentation I used KMeans algorithm.
  <p></p>
  <h3>Result</h3>
- <p>I've got <b>8 segments</b> of customer. This information can help the company <b><i>develop a marketing strategy with an individual approach </b></i> to each segment. Thus, save on the “dead” and <b><i>make more money</i><b/> on the “living”.
+ <p>I've got <b>8 segments</b> of customer. This information can help the company <i>develop a marketing strategy with an individual approach</i> to each segment. Thus, save on the “dead” and <i>make more money</i> on the “living”.
 In fairness, it should be noted that this is not only about business profits. In a sense, RFM analysis increases the value of a consumer’s life. Here, as they say, </p>
  <p><b>“A happy customer is a useful customer.”</b></p>
